@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Legion\\source\\repos\\HW2.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D519D5E-8636-424A-AD3F-AE08730C9C85}|HW2.2.vcxproj|C:\\Users\\Legion\\source\\repos\\HW2.2\\int.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D519D5E-8636-424A-AD3F-AE08730C9C85}|HW2.2.vcxproj|solutionrelative:int.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "int.txt",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\HW2.2\\int.txt",
+              "RelativeDocumentMoniker": "int.txt",
+              "ToolTip": "C:\\Users\\Legion\\source\\repos\\HW2.2\\int.txt",
+              "RelativeToolTip": "int.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-02T05:58:56.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
